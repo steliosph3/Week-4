@@ -149,3 +149,10 @@ li {
     align-items: center;
     justify-content: center;
 }
+
+.section-three {
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
