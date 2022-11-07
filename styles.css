@@ -121,4 +121,25 @@ li {
     background-color: aliceblue;
 }
 
+.box1 {
+    background-color: skyblue;
+    
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box2 {
+    background-color: lightgreen;
+
+    height: 200px;
+    flex: 2 1 auto;
+}
+
+.box3 {
+    background-color: darkmagenta;
+
+    height: 200px;
+    flex: 1 1 auto;
+}
+
 
