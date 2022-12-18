@@ -189,3 +189,9 @@ li {
     font-size: 20px;
  }
 
+ .img {
+    border-radius: 20px;
+    box-shadow: inset;
+ }
+ 
+  
